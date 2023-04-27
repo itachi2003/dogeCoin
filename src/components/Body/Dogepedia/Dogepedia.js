@@ -23,23 +23,23 @@ const Dogepedia = () => {
             <div className={styles.last}>
                 <div className={styles.lastPart}>
                     <img src={downarrow}/>
-                    <p>A whale holds nearly 30% of Dogecoin supply! Is this true?</p>
+                    <p>A whale holds nearly 30% of MuskOnMars supply! Is this true?</p>
                 </div>
                 <div className={styles.lastPart}>
                     <img src={downarrow}/>
-                    <p>Dodgecoin has no utility!</p>
+                    <p>MuskOnMars has no utility!</p>
                 </div>
                 <div className={styles.lastPart}>
                     <img src={downarrow}/>
-                    <p>Can you put a cap on Dogecoin?</p>
+                    <p>Can you put a cap on MuskOnMars?</p>
                 </div>
                 <div className={styles.lastPart}>
                     <img src={downarrow}/>
-                    <p>Dogecoin and coin burning</p>
+                    <p>MuskOnMars and coin burning</p>
                 </div>
                 <div className={styles.lastPart}>
                     <img src={downarrow}/>
-                    <p>Dogecoin has no developers!</p>
+                    <p>MuskOnMars has no developers!</p>
                 </div>
             </div>
         </div>

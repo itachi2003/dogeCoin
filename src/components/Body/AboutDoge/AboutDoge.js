@@ -7,9 +7,9 @@ const AboutDoge = () => {
     <div className={styles.container}>
         <div className={styles.container__}>
             <div className={styles.content}>
-                <h2>What is Dogecoin?</h2>
+                <h2>What is MuskOnMars?</h2>
                 <p>An open-source peer-to-peer digital currency, favoured by Shiba Inus worldwide.</p>
-                <p>At its heart, Dogecoin is the accidental crypto movement that makes people smile! It is also an opensource peer-to-peer cryptocurrency that utilises blockchain technology, a highly secure decentralised system of storing information as a public ledger that is maintained by a network of computers called nodes. More than this, though, is the ethos of Dogecoin, summarised in the Dogecoin Manifesto , and its amazing, vibrant community made up of friendly folks just like you! Learn more.</p>
+                <p>At its heart, MuskOnMars is the accidental crypto movement that makes people smile! It is also an opensource peer-to-peer cryptocurrency that utilises blockchain technology, a highly secure decentralised system of storing information as a public ledger that is maintained by a network of computers called nodes. More than this, though, is the ethos of MuskOnMars, summarised in the MuskOnMars Manifesto , and its amazing, vibrant community made up of friendly folks just like you! Learn more.</p>
             </div>
             <div className={styles.dogepic}>
                 <img src={aboutDogePic}/>
@@ -22,21 +22,21 @@ const AboutDoge = () => {
                 <div className={styles.getting__child}>
                     <span>01</span>
                     <span>choose  your wallet</span>
-                    <p className={styles.pickwallet}>A wallet is necessary for people wanting to use, trade, or hold Dogecoin. You can pick a wallet</p>
+                    <p className={styles.pickwallet}>A wallet is necessary for people wanting to use, trade, or hold MuskOnMars. You can pick a wallet</p>
                     <p>Learn more.</p>
                 </div>
 
                 <div className={styles.getting__child}>
                     <span>01</span>
                     <span>choose  your wallet</span>
-                    <p className={styles.pickwallet}>A wallet is necessary for people wanting to use, trade, or hold Dogecoin. You can pick a wallet</p>
+                    <p className={styles.pickwallet}>A wallet is necessary for people wanting to use, trade, or hold MuskOnMars. You can pick a wallet</p>
                     <p>Guide.</p>
                 </div>
 
                 <div className={styles.getting__child}>
                     <span>01</span>
                     <span>choose  your wallet</span>
-                    <p className={styles.pickwallet}>A wallet is necessary for people wanting to use, trade, or hold Dogecoin. You can pick a wallet</p>
+                    <p className={styles.pickwallet}>A wallet is necessary for people wanting to use, trade, or hold MuskOnMars. You can pick a wallet</p>
                     <p>Learn more.</p>
                 </div>
             </div>  {/* end of .getting__container*/}

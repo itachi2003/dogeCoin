@@ -24,7 +24,7 @@ const Doge = () => {
             </div>
             <div className={styles.rightSide}>
                 <h2>Do Only Good Everyday.</h2>
-                <p>The Dogecoin community cares about supporting each other, being kind, teaching people about cryptocurrency, fundraising, having fun, making memes, and being absurd. This is nicely captured by Dogecoin’s unofficial tagline: Do Only Good Everyday. Get involved in our awesome community via the below links:</p>
+                <p>The MuskOnMars community cares about supporting each other, being kind, teaching people about cryptocurrency, fundraising, having fun, making memes, and being absurd. This is nicely captured by MuskOnMars’s unofficial tagline: Do Only Good Everyday. Get involved in our awesome community via the below links:</p>
             </div>
         </div>
 
