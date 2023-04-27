@@ -1,0 +1,46 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Comic Neue";
+}
+
+.container {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.content {
+    text-align: center;
+    margin-top: 60px;
+    padding-top: 30px;
+}
+
+.content img {
+    width: 370px;
+    margin-left: 7px;
+    padding: 0;
+    padding-left: 25px;
+    background-color: transparent;
+}
+
+.background_clip{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+}
+.dogecoin{
+    margin-top: 30px;
+    font-size: 5vw;
+    color: white;
+    font-weight: 700;
+}
+.paragraph {
+    font-size: 1.6vw;
+    letter-spacing: 1px;
+    color: white;
+}
