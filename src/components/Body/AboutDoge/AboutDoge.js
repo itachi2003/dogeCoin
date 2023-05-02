@@ -22,21 +22,23 @@ const AboutDoge = () => {
                 <div className={styles.getting__child}>
                     <span>01</span>
                     <span>choose  your wallet</span>
-                    <p className={styles.pickwallet}>A wallet is necessary for people wanting to use, trade, or hold MuskOnMars. You can pick a wallet</p>
+                    <p className={styles.pickwallet}>Create a wallet: metamask, coinbase... And choose a BNB network.</p>
                     <p>Learn more.</p>
                 </div>
 
                 <div className={styles.getting__child}>
-                    <span>01</span>
-                    <span>choose  your wallet</span>
-                    <p className={styles.pickwallet}>A wallet is necessary for people wanting to use, trade, or hold MuskOnMars. You can pick a wallet</p>
+                    <span>02</span>
+                    <span>Go to Uniswap</span>
+                    <p className={styles.pickwallet}>Go to Uniswap website: "https://app.uniswap.org/#/swap" <br /> Connect your wallet <br />
+                    After Click "Select Token" and write "Musk on Mars" or <br /> "0x0fd7793181aBe0d8b7Db9AAe8De354133d4B5EA3" So import it.
+                    </p>    
                     <p>Guide.</p>
                 </div>
 
                 <div className={styles.getting__child}>
-                    <span>01</span>
-                    <span>choose  your wallet</span>
-                    <p className={styles.pickwallet}>A wallet is necessary for people wanting to use, trade, or hold MuskOnMars. You can pick a wallet</p>
+                    <span>03</span>
+                    <span>Swap</span>
+                    <p className={styles.pickwallet}>Write the suitable numbers and Click Swap!</p>
                     <p>Learn more.</p>
                 </div>
             </div>  {/* end of .getting__container*/}
